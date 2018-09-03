@@ -7,12 +7,20 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <header>
-  
-  <p><h1>ADA TAPILY, I AM IN THE FUTURE</h1></p>
+  <center>
+<h2>
+.._|\___<br>_________________,,_<br>
+./ ]]]]]]]]]]]]]]]]]]]]]]]]_________|<br>
+/_.==o___-ADA-__________|<br>
+..),---.(_(__)/¯¯¯<br>
+.// () ),/‾‾‾‾‾‾<br>
+//___// ★TAPILY★<br>
+¯¯¯¯ 
+</h2></center>
    
    </header>
   <body>
-    <p id="result"></p>
+   <center> <p id="result"></p></center>
     
     <div class="image" align="center"> 
           <img src="images/2.jpeg" alt="My test image">
