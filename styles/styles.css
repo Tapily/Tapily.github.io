@@ -12,8 +12,8 @@ color: white;
     float:left;
     
 }
-h1{
- 
+h1,.header{
+ color: white
 }
 
 #info{
