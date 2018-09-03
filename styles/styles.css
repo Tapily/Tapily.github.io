@@ -4,6 +4,7 @@ font-family: 'Encode Sans Condensed', sans-serif;
 align-text:center;
 font-size: 13px;
 background: black;
+color: white;
 }
 
 #im{
@@ -12,7 +13,7 @@ background: black;
     
 }
 h1{
- text-color: white;
+ 
 }
 
 #info{
@@ -46,10 +47,13 @@ h1{
             position: absolute;
             border-radius: 15px;
     }
-    
+#tt{
+        
+        text-color: white;
+    }
 .tt:hover{
      background: red;
-    text-color: white;
+    
 }
 #chain, #battery, #hourglass{
       font-size:100px;
