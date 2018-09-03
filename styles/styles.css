@@ -12,7 +12,7 @@ background: black;
     
 }
 h1{
- color: white;
+ text-color: white;
 }
 
 #info{
@@ -49,7 +49,7 @@ h1{
     
 .tt:hover{
      background: red;
-    color: white;
+    text-color: white;
 }
 #chain, #battery, #hourglass{
       font-size:100px;
