@@ -1,0 +1,80 @@
+body {
+
+font-family: 'Encode Sans Condensed', sans-serif;
+align-text:center;
+font-size: 13px;
+background: black;
+}
+
+#im{
+    position:absolute;
+    float:left;
+    
+}
+header{
+    background: red;
+}
+#info{
+    align-text:center;
+}
+#parent1, #parent2 {
+        position: absolute;
+        top: 100px; left: 50px;
+        padding: 40px 0 0 25px;
+        width: 175px; height: 160px;
+        background-color: red;
+        color: white;
+      }
+      
+      #parent2 {
+        left: 350px;
+      }
+      
+      #child1, #child2 {
+        position: absolute;
+        right: 20px; bottom: 20px;
+        padding-top: 27px;
+        width: 80px; height: 53px;
+        background-color: blue;
+        text-align: center;
+      }
+    .circle {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #000;
+            position: absolute;
+            border-radius: 15px;
+    }
+    
+.tt:hover{
+     background: red;
+    
+}
+#chain, #battery, #hourglass{
+      font-size:100px;
+     
+    }
+
+#parent1, #parent2 {
+        
+         left: 50px;
+        padding: 40px 0 0 25px;
+        width: 175px; height: 160px;
+        background-color: red;
+        color: white;
+      }
+      
+      #parent2 {
+        left: 350px;
+      }
+      
+      #child1, #child2 {
+        
+        right: 20px; bottom: 20px;
+        padding-top: 27px;
+        width: 60px; height: 23px;
+        background-color: green;
+        text-align: center;
+      }
+    
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css" media="all">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <header>
+  
+  <p><h1>ADA TAPILY, I AM IN THE FUTURE</h1></p>
+   
+   </header>
+  <body>
+    <p id="result"></p>
+    
+    <div class="image" align="center"> 
+          <img src="images/2.jpeg" alt="My test image">
+    </div>
+  
+
+    <div id="parent1">
+             PASSION
+             <img src="images/3.jpeg"  width=" 175px" height="160px" >
+    
+             <div id="child1">
+             </div>
+    </div>
+
+    <div id="parent2">
+             GOAL
+         <div id="child2" >
+         </div>
+    </div>
+   
+   <div align="center">
+     
+       <div id="chain" class="fa"></div>
+
+       <div id="battery" class="fa"></div>
+
+       <div id="hourglass" class="fa"></div>
+       </br>
+    </div>
+  <p class ="tt" align= "center">
+      <FONT size="5pt">
+        I will leave my mark in the world of technology by doing great things<br><b>learning and traveling</b> to have the <b> knowledge</b>, the <b>patience </b>to consolidate and to apply my<b> knowledge</b>, the <b>wisdom</b> to do something </b>excellent</b>
+      </FONT>
+   
+  </p>
+   <!--div class= "im" align="center">
+   <img src="images/1.jpeg"> 
+   <img src="images/images.jpeg" >
+   <img src="images/index.jpeg">
+   <img src="images/4.jpeg">
+   </div-->
+    
+   
+   <script src="js/main.js"></script>
+   
+   
+  </body>
+</html>
